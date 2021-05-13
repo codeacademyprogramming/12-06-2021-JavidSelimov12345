@@ -49,9 +49,9 @@ then((data)=>{
         
         `
        
-        document.getElementsByClassName('butt')[pizza.id-1].addEventListener('click',function(){
-            console.log('hello')
-        })
+        // document.getElementsByClassName('butt')[pizza.id-1].addEventListener('click',function(){
+        //     console.log('hello')
+        // })
 
     })
  
