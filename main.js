@@ -1,4 +1,4 @@
-import { fetchApi } from './modules/api.js';
+import { fetchApi } from './api/api.js';
 
 fetchApi().
 then((data)=>{
